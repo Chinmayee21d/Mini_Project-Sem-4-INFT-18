@@ -14,7 +14,7 @@ Welcome to our e-commerce website project! This project aims to create a seamles
 
 ## Preview
 
-![Homepage](/preview/homepage.png)
+![Homepage](![Picture1](https://github.com/Chinmayee21d/Mini_Project-Sem-4-INFT-18/assets/109342097/1f5b1000-75a5-4b4f-b156-7dfa5c0b3524))
 *Homepage*
 
 ![Product Catalog](/preview/catalog.png)
